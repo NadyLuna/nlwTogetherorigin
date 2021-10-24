@@ -524,7 +524,7 @@ nav {
     transform: translateY(0); /*TRANSFORM É PROPRIEDADE DO CSS E TRANSLATE, SERVE PARA MEXER NOS EIXOS X E Y*/
 }
   
-*====  FOOTER ============================ */
+/*====  FOOTER ============================ */
 footer {
   background: var(--base-color);
 }
