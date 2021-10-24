@@ -2,7 +2,7 @@
 
 ## Desafio Rocketseat da semana de 18 a 24.10.2021
 
-### Mission: Origin
+### [Mission origin](https://www.notion.so/Material-para-as-aulas-62a9d83b24244526ae48486f5e5ebefc)
 💻     Projeto
 
 OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
